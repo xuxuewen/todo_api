@@ -1,0 +1,19 @@
+Sequelize CLI [Node: 10.14.0, CLI: 5.5.0, ORM: 5.8.11]
+
+选项：
+  --help             显示帮助信息                                                       [布尔]
+  --version          显示版本号                                                         [布尔]
+  --env              The environment to run the command in    [字符串] [默认值: "development"]
+  --config           The path to the config file                                      [字符串]
+  --options-path     The path to a JSON file with additional options                  [字符串]
+  --migrations-path  The path to the migrations folder         [字符串] [默认值: "migrations"]
+  --seeders-path     The path to the seeders folder               [字符串] [默认值: "seeders"]
+  --models-path      The path to the models folder                 [字符串] [默认值: "models"]
+  --url              The database connection string to use. Alternative to using --config
+                     files                                                            [字符串]
+  --debug            When available show various debug information      [布尔] [默认值: false]
+  --charset          Pass charset option to dialect, MYSQL only                       [字符串]
+  --collate          Pass collate option to dialect                                   [字符串]
+  --encoding         Pass encoding option to dialect, PostgreSQL only                 [字符串]
+  --ctype            Pass ctype option to dialect, PostgreSQL only                    [字符串]
+  --template         Pass template option to dialect, PostgreSQL only                 [字符串]
